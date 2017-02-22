@@ -1,0 +1,23 @@
+[
+    "index.md",
+    [
+        "org-structure.md",
+        "org-structure-call-center.md"
+    ],
+    "institution-pm.md",
+    "pm-contract-form.md",
+    [
+        "pm-contract-content.md",
+        "pm-contract-content-identification.md",
+        "pm-contract-content-demarcation.md",
+        "pm-contract-content-target.md",
+        "pm-contract-content-budget.md",
+        "pm-contract-content-deadline.md",
+        "pm-contract-content-organisation.md",
+        "pm-contract-content-factors.md",
+        "pm-contract-content-risks.md",
+        "pm-contract-content-signs.md"
+    ],
+    "requirements.md",
+    "kickoff.md"
+]
