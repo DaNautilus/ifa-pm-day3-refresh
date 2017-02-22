@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Grundlagen Projektmanagement Tag 3 Zusammenfassung",
+    "packageVersion": "0.0.1",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "danautilus",
+    "githubRepository": "ifa-pm-day3-refresh"
+  }
+}
