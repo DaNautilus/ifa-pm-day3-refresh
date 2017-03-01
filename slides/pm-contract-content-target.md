@@ -1,5 +1,13 @@
 ####Ziele definieren
 
-* Systemziele (Was ist ein Systemziel)
-* Projektziele (Was ist ein Projektziel)
-* QS Ziele (Z.B. Einhaltung von Meilensteine)
+* Systemziele
+  * Nicht Funktionale Anforderungen
+  * Schulung
+  * Wartung und Pflege
+* Projektziele
+  * Funktionale Anforderungen
+* QS Ziele
+  * Einhaltung von Meilensteinen
+  * Einhaltung von Budgtet
+  * Kundenzufriedenheit
+  * Akzeptanz

@@ -16,8 +16,15 @@
         "pm-contract-content-organisation.md",
         "pm-contract-content-factors.md",
         "pm-contract-content-risks.md",
-        "pm-contract-content-signs.md"
+        "pm-contract-content-signature.md"
     ],
     "requirements.md",
-    "kickoff.md"
+    [
+        "kickoff.md",
+        "kickoff-sense.md",
+        "kickoff-prepare.md",
+        "kickoff-day.md",
+        "kickoff-post.md"
+    ],
+    "finish.md"
 ]
